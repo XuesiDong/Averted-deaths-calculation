@@ -1,6 +1,6 @@
 # Six-cancer screening: deaths potentially averted and mortality-risk-only PSA
 # PSA varies stage-specific 5-year index-cancer death risks; other inputs are fixed.
-# Input: 8-stage.data-暴雨.xlsx in the working directory (or edit input_file).
+# Input: stage.data.xlsx in the working directory (or edit input_file).
 
 library(readxl)
 library(dplyr)
