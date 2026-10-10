@@ -7,7 +7,7 @@ library(dplyr)
 library(tidyr)
 library(openxlsx)
 
-input_file <- "8-stage.data-暴雨.xlsx"
+input_file <- "stage.data.xlsx"
 n_sim <- 1000L
 set.seed(123)
 stages <- c("I", "II", "III", "IV")
